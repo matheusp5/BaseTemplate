@@ -1,8 +1,0 @@
-{
-    "require": {
-        "phpmailer/phpmailer": "^6.6",
-        "firebase/php-jwt": "^6.1",
-        "mercadopago/dx-php": "^2.4",
-        "coffeecode/router": "^2.0"
-    }
-}
