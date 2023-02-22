@@ -56,7 +56,7 @@ class Database {
 class Notify extends Database
 {
 
-    protected const AcessToken = "APP_USR-8653370645303845-042015-4841c4592cf330aa722217db16fe74b4-92767390";
+    protected const AcessToken = "";
 
     /**
      * Configurando o Acess Token do mercadopago
